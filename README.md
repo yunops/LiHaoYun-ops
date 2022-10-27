@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yunops
-- 👀 I’m interested in DevOps and AIOps
-- 🌱 I’m currently learning programming and website architecture design
+- 👀 I’m interested in DevOps and SRE
+- 🌱 I’m currently learning programming and SRE system construction
 - 📫 How to reach me? xiaowan_li@163.com
